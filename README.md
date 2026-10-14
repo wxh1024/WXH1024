@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wxh1024/WXH1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+██╗    ██╗██╗  ██╗██╗  ██╗ ██╗ ██████╗ ██████╗ ██╗  ██╗
+██║    ██║╚██╗██╔╝██║  ██║███║██╔═████╗╚════██╗██║  ██║
+██║ █╗ ██║ ╚███╔╝ ███████║╚██║██║██╔██║ █████╔╝███████║
+██║███╗██║ ██╔██╗ ╚════██║ ██║████╔╝██║ ╚═══██╗╚════██║
+╚███╔███╔╝██╔╝ ██╗      ██║ ██║╚██████╔╝██████╔╝     ██║
+ ╚══╝╚══╝ ╚═╝  ╚═╝      ╚═╝ ╚═╝ ╚═════╝ ╚═════╝      ╚═╝
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+### 一名 3C3U.org 的玩家
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+┌──────────────────────┐
+│  195742047@qq.com    │
+└──────────────────────┘
+```
+
+</div>
